@@ -1,0 +1,20 @@
+#brands {
+  display: flex;
+  margin: 2% 0 0 40%;
+}
+#app {
+  display: flex;
+  margin: 3%;
+}
+#app > div {
+  margin: 0%;
+}
+h2 {
+  margin: 10px 0 0 100px;
+}
+img {
+  height: 300px;
+  width: 250px;
+  background-size: cover; /* Scale the image to cover the entire container */
+  background-position: center;
+}
